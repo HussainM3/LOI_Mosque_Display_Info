@@ -5,6 +5,8 @@ Association in Brampton, Ontario. The page presents the monthly iqama schedule,
 announcements, and donation information in a layout intended for a mosque
 display screen.
 
+Website: [hussainm3.github.io/LOI_Mosque_Display_Info/](https://hussainm3.github.io/LOI_Mosque_Display_Info/)
+
 ## How it works
 
 The display is a self-contained web page. Its 1920 × 1080 layout scales to fit
